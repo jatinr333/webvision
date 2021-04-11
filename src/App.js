@@ -18,10 +18,11 @@ function App() {
             }
           }
 
-      }}}/>
+      }}} />
 
    <Navbar/>
-   <Header/></>
+   <Header/>
+   </>
   );
 }
 
