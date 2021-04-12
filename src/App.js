@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 function App() {
   return (<>
   <Particles
-  className="party"
+  className="particles-canvas"
     params={{
       polygon: {
           enable: true,
