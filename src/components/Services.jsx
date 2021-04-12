@@ -52,10 +52,9 @@ export default function Services() {
 									size='2x'
 								/>
 							</div>
-							<h3 className='service--sub-title'>Facebook Ads SMM</h3>
+							<h3 className='service--sub-title'>Mobile Apps Devlopment</h3>
 							<p>
-								Your potential clients well see your services or product
-								on Facebook.
+								You tell we build,design apps for you.
 							</p>
 						</div>
 					</div>
@@ -70,7 +69,7 @@ export default function Services() {
 								/>
 							</div>
 
-							<h3 className='service--sub-title'>Google Ads</h3>
+							<h3 className='service--sub-title'>Google SEO</h3>
 							<p>
 								Your service or product will appear at the top of the
 								Google search.
