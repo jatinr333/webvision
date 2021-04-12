@@ -51,7 +51,7 @@ export default function Contact() {
 				{/* //<span className='success-message'>{successMessage}</span> */}
 			</div>
 			<div className='container'>
-				<form data-netlify="true" method="POST" netlify-honeypot="bot-field" >
+				<form name="contact" action="/" data-netlify="true" method="POST" netlify-honeypot="bot-field" >
 					<div className='row'>
 						<div className='col-md-6 col-xs-12'>
 							<div className='text-center'>
@@ -125,13 +125,12 @@ export default function Contact() {
 							<span className='error-message'>
 							
 							</span>
-							<input
+							<button
 								className='btn-main-offer contact-btn'
 								type='submit'
-								value='send message'
-							/>
-								
-							
+							>
+								send message
+							</button>
 						</div>
 					</div>
 				</form>
