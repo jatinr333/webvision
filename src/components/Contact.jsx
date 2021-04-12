@@ -128,9 +128,10 @@ export default function Contact() {
 							<input
 								className='btn-main-offer contact-btn'
 								type='submit'
-							>
-								send message
-							</button>
+								value='send message'
+							/>
+								
+							
 						</div>
 					</div>
 				</form>
