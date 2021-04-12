@@ -125,7 +125,7 @@ export default function Contact() {
 							<span className='error-message'>
 							
 							</span>
-							<button
+							<input
 								className='btn-main-offer contact-btn'
 								type='submit'
 							>
