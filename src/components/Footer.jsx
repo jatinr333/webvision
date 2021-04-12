@@ -36,7 +36,7 @@ export default function Footer() {
 							<div className='col'>
 								<a className='footer-nav' href="{null}">Home</a>
 								<br />
-								<a className='footer-nav' href="{null}"href="{null}">About</a>
+								<a className='footer-nav' href="{null}">About</a>
 								<br />
 								<a className='footer-nav' href="{null}">Services</a>
 							</div>
