@@ -51,7 +51,7 @@ export default function Contact() {
 				{/* //<span className='success-message'>{successMessage}</span> */}
 			</div>
 			<div className='container'>
-				<form >
+				<form data-netlify="true" method="POST" netlify-honeypot="bot-field" >
 					<div className='row'>
 						<div className='col-md-6 col-xs-12'>
 							<div className='text-center'>
