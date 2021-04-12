@@ -52,8 +52,7 @@ export default function Contact() {
 			</div>
 			<div className='container'>
 				<form name="contact"
-					method="POST"
-					data-netlify="true"  >
+					netlify  >
 					<div className='row'>
 						<div className='col-md-6 col-xs-12'>
 							<div className='text-center'>
