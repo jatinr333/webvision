@@ -80,7 +80,7 @@ export default function Footer() {
 						</div>
 						<p className='pt-3 text-center'>
 							Copyright&copy;
-							{new Date().getFullYear()}&nbsp;New Horizon
+							{new Date().getFullYear()}&nbsp;Web-Vision
 						</p>
 					</div>
 				</div>
