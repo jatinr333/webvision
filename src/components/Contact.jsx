@@ -138,8 +138,9 @@ export default function Contact() {
 						</div>
 					</div>
 				</form>
-			</div>
-		</div>,
+				
 		document.getElementById("root")
+			</div>
+		</div>
 	);
 }
