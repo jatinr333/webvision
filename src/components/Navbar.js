@@ -6,7 +6,7 @@ import { Link } from 'react-scroll'
 
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-dark">
+        <nav  style={{backgroundColor: "#071740", position: "sticky"}} variant="dark" fixed="top" className="navbar navbar-expand-lg navbar-light bg-dark">
   <div className="container"><a className="navbar-brand" href="{null}">Web-Vision</a>
  
 
