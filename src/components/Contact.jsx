@@ -93,6 +93,7 @@ export default function Contact() {
 								/>
 								<div className='line'></div>
 							</div>
+							<input type="hidden" name="form-name" value="contact" />
 							<span className='error-message'>
 
 							</span>
@@ -132,6 +133,8 @@ export default function Contact() {
 							>
 								send message
 							</button>
+							
+							document.getElementById("root")
 						</div>
 					</div>
 				</form>
