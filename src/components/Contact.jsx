@@ -43,7 +43,7 @@ export default function Contact() {
 	return (
 		<div id='contact' className='contacts'>
 			<div className='text-center'>
-				<h1>contact me</h1>
+				<h1>contact Us !</h1>
 				<p>
 					Fill out the form, briefly describe your project, and I will
 					contact you as soon as possible.
