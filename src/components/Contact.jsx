@@ -52,7 +52,7 @@ export default function Contact() {
 			</div>
 			<div className='container'>
 				<form name="contact"
-					 >
+					method="post" >
 					<div className='row'>
 						<div className='col-md-6 col-xs-12'>
 							<div className='text-center'>
@@ -139,7 +139,7 @@ export default function Contact() {
 					</div>
 				</form>
 				
-		document.getElementById("root")
+	
 			</div>
 		</div>
 	);
