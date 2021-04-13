@@ -52,7 +52,7 @@ export default function Contact() {
 			</div>
 			<div className='container'>
 				<form name="contact"
-					netlify  >
+					 >
 					<div className='row'>
 						<div className='col-md-6 col-xs-12'>
 							<div className='text-center'>
@@ -134,11 +134,12 @@ export default function Contact() {
 								send message
 							</button>
 							
-							document.getElementById("root")
+							
 						</div>
 					</div>
 				</form>
 			</div>
-		</div>
+		</div>,
+		document.getElementById("root")
 	);
 }
